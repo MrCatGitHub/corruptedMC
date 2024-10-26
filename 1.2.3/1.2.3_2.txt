@@ -1,0 +1,5 @@
+corrupt Mojang logo
+lower quality sounds
+broken block shadows
+no block breaking animation
+dislodged arm
