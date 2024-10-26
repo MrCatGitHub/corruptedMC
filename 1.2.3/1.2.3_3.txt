@@ -1,0 +1,5 @@
+no text
+green-ish fog
+corrupted item textures
+corrupted clouds
+wierd block textures
