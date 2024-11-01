@@ -1,1 +1,1 @@
-for files like "[number].jar" read "[number].txt"
+for files like "[mc version]_[number].jar" read "[mc version]_[number].txt"
