@@ -1,0 +1,7 @@
+extremeScreenshake
+invertedMouseX
+invertedMouseY
+greenTintAtNight
+corruptClouds
+misalignedParticles
+alwaysWalking
